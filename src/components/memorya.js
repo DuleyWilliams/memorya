@@ -5,7 +5,7 @@ import "./memorya.css"
 
 export const Memorya = () => (
     <>
-        {/* <NavBar /> */}
+        <NavBar />
         <ApplicationViews /> 
     </>
 )
